@@ -7,6 +7,8 @@
     ],
     "name": "alexvkokin/telegram-mini-app-validation",
     "description": "Validating InitData received via the Mini App",
+    "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.2"
     },
